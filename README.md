@@ -4,7 +4,7 @@ This project aims to predict water potability based on water quality parameters 
 
 ## Dataset
 
-The Dataset can be found in [Water Quality Potability Dataset] (https://www.kaggle.com/code/ragilhadip/water-quality-potability/input) which contains water quality metrics in Kaggle.
+The Dataset can be found in Kaggle [Water Quality Potability Dataset](https://www.kaggle.com/code/ragilhadip/water-quality-potability/input) which contains water quality metrics.
 
 ## Requirements
 I run this project on Jupiter Notebook.
