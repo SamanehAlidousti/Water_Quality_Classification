@@ -1,4 +1,4 @@
-# Water Quality Potability
+# Water Quality Prediction
 
 This project aims to predict water potability based on water quality parameters by employing Machine Learning algorithms. This is a binary classification problem to determine if water is safe for human consumption.
 
